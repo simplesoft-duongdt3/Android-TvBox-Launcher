@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="FloatingView-2.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e6eff62f66cdad29b31d356dd64c78f7c99201ec/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e6eff62f66cdad29b31d356dd64c78f7c99201ec/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.recruit-lifestyle/FloatingView/2.2.1/9007b4676f9376feeb256bce69adca8e5d534f86/FloatingView-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

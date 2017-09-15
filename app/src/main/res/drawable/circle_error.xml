@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#ffe552"/>
+            <stroke android:color="#bababa" android:width="2dp"/>
+            <!-- Set the same value for both width and height to get a circular shape -->
+            <size android:width="@dimen/chat_head_size" android:height="@dimen/chat_head_size"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.android.percent.support.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <RelativeLayout
+        android:id="@+id/vgHeader"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="4dp"
+        app:layout_heightPercent="10%">
+    </RelativeLayout>
+
+    <com.zhy.android.percent.support.PercentRelativeLayout
+        android:id="@+id/vgFixApp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/vgHeader"
+        app:layout_heightPercent="50%">
+
+        <include layout="@layout/fix_app_layout" />
+    </com.zhy.android.percent.support.PercentRelativeLayout>
+
+    <TextView
+        android:id="@+id/tvApps"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/vgFixApp"
+        android:layout_marginLeft="4dp"
+        android:gravity="bottom"
+        android:text="Apps"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_heightPercent="5%" />
+
+    <info.awesomedevelopment.tvgrid.library.TVGridView
+        android:id="@+id/rvApp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tvApps"
+        android:layout_marginTop="4dp"
+        android:padding="2dp"
+        app:tvg_animateSelectorChanges="true"
+        app:tvg_cornerRadius="3dp"
+        app:tvg_selectorPosition="over"
+        app:tvg_strokeColor="@android:color/white"
+        app:tvg_strokePosition="inside"
+        app:tvg_strokeWidth="2dp" />
+</com.zhy.android.percent.support.PercentRelativeLayout>

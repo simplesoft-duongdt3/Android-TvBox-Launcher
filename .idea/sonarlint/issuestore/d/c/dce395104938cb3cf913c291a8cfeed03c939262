@@ -1,0 +1,6 @@
+
+Psquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ç©—ˆ8çÎ¯ÑÔ+
+Psquid:S1066"/Merge this if statement with the enclosing one.(æŞªŒÿÿÿÿÿ8ºöıĞÔ+
+Psquid:EmptyStatementUsageCheck"Remove this empty statement.(“ãá¼øÿÿÿÿ8íĞÔ+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ä°’Ë
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±

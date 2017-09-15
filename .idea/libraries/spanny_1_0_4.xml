@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="spanny-1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e366d9cdf058905c95e6addf33a8613d9c536544/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e366d9cdf058905c95e6addf33a8613d9c536544/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.binaryfork/spanny/1.0.4/3f37a6ff771e0080a534d622e16dc4384dbfa5b7/spanny-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

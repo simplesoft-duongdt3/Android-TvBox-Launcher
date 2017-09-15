@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chat_head_size">70dp</dimen>
+    <dimen name="chat_head_text_size">21dp</dimen>
+    <bool name="tablet">true</bool>
+</resources>

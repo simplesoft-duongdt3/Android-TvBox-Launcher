@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:id="@+id/info_text"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/chat_head_size"
+    android:layout_height="@dimen/chat_head_size"
+    android:padding="2dp"
+    android:background="@drawable/circle_success"
+    android:visibility="invisible"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:textSize="16sp"
+    android:textColor="#ececec"
+    tools:text="19:00"
+    android:textStyle="bold"
+    tools:visibility="visible" />

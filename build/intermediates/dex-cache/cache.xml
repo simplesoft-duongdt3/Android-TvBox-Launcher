@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/a074f42609e388ba4a078d9591418f7840e2ab3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/admin/Work/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/classes_440e0b515b22d011dab5082d4683d1d37c4626e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/admin/Work/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_03ab0c99d4687f7c6c7119b9785d4487d446052a.jar" />
+    </item>
+
+</items>
