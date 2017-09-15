@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="16dp" android:background="@drawable/background">
 
     <RelativeLayout
         android:id="@+id/vgHeader"
@@ -21,11 +21,10 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/vgHeader"
-        app:layout_heightPercent="50%">
+        app:layout_heightPercent="40%">
 
         <include layout="@layout/fix_app_layout" />
     </com.zhy.android.percent.support.PercentRelativeLayout>
-
     <TextView
         android:id="@+id/tvApps"
         android:layout_width="match_parent"

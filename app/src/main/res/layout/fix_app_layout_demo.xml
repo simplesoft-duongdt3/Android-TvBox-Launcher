@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.android.percent.support.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cvFixApp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/cvHeader"
+    app:layout_heightPercent="50%">
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:clickable="true"
+            android:focusable="true"
+            app:layout_heightPercent="50%"
+            app:layout_widthPercent="12.5%"
+            android:id="@+id/cv1"
+            android:layout_gravity="center"
+            android:layout_margin="2dp"
+            app:cardBackgroundColor="@color/md_green_600"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true">
+
+            <com.zhy.android.percent.support.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/iv1"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:padding="8dp"
+                    android:scaleType="fitCenter"
+                    app:layout_heightPercent="60%"
+                    app:layout_marginTopPercent="15%h"
+                    app:layout_widthPercent="80%"
+                    app:srcCompat="@drawable/movie" />
+
+                <TextView
+                    android:id="@+id/tv1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/iv1"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Movie"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.zhy.android.percent.support.PercentRelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_toRightOf="@+id/cv1"
+            app:layout_heightPercent="50%"
+            app:layout_widthPercent="12.5%"
+            android:layout_gravity="center"
+            android:layout_margin="2dp"
+            app:cardBackgroundColor="@color/md_teal_600"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true">
+
+            <com.zhy.android.percent.support.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/iv2"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:padding="8dp"
+                    android:scaleType="fitCenter"
+                    app:layout_heightPercent="60%"
+                    app:layout_marginTopPercent="15%h"
+                    app:layout_widthPercent="80%"
+                    app:srcCompat="@drawable/music" />
+
+                <TextView
+                    android:id="@+id/tv2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/iv2"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Music"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.zhy.android.percent.support.PercentRelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv3"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_toRightOf="@+id/cv2"
+            app:layout_heightPercent="50%"
+            app:layout_widthPercent="12.5%"
+            android:layout_gravity="center"
+            android:layout_margin="2dp"
+            app:cardBackgroundColor="@color/md_cyan_600"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true">
+
+            <com.zhy.android.percent.support.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/iv3"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:padding="8dp"
+                    android:scaleType="fitCenter"
+                    app:layout_heightPercent="60%"
+                    app:layout_marginTopPercent="15%h"
+                    app:layout_widthPercent="80%"
+                    app:srcCompat="@drawable/photo" />
+
+                <TextView
+                    android:id="@+id/tv3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/iv3"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Photo"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.zhy.android.percent.support.PercentRelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv4"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_toRightOf="@+id/cv3"
+            app:layout_heightPercent="50%"
+            app:layout_widthPercent="12.5%"
+            android:layout_gravity="center"
+            android:layout_margin="2dp"
+            app:cardBackgroundColor="@color/md_light_blue_400"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true">
+
+            <com.zhy.android.percent.support.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/iv4"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:padding="8dp"
+                    android:scaleType="fitCenter"
+                    app:layout_heightPercent="60%"
+                    app:layout_marginTopPercent="15%h"
+                    app:layout_widthPercent="80%"
+                    app:srcCompat="@drawable/store" />
+
+                <TextView
+                    android:id="@+id/tv4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/iv4"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="App Store"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.zhy.android.percent.support.PercentRelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv5"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_below="@+id/cv1"
+            app:layout_heightPercent="50%"
+            app:layout_widthPercent="12.5%"
+            android:layout_gravity="center"
+            android:layout_margin="2dp"
+            app:cardBackgroundColor="@color/md_orange_600"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true">
+
+            <com.zhy.android.percent.support.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/iv5"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:padding="8dp"
+                    android:scaleType="fitCenter"
+                    app:layout_heightPercent="60%"
+                    app:layout_marginTopPercent="15%h"
+                    app:layout_widthPercent="80%"
+                    app:srcCompat="@drawable/browser" />
+
+                <TextView
+                    android:id="@+id/tv5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/iv5"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Web"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.zhy.android.percent.support.PercentRelativeLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv6"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_below="@+id/cv1"
+            android:layout_toRightOf="@+id/cv5"
+            app:layout_heightPercent="50%"
+            app:layout_widthPercent="12.5%"
+            android:layout_gravity="center"
+            android:layout_margin="2dp"
+            app:cardBackgroundColor="@color/md_deep_orange_600"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true">
+
+            <com.zhy.android.percent.support.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/iv6"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:padding="8dp"
+                    android:scaleType="fitCenter"
+                    app:layout_heightPercent="60%"
+                    app:layout_marginTopPercent="15%h"
+                    app:layout_widthPercent="80%"
+                    app:srcCompat="@drawable/map" />
+
+                <TextView
+                    android:id="@+id/tv6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/iv6"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Map"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.zhy.android.percent.support.PercentRelativeLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv7"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_below="@+id/cv1"
+            android:layout_toRightOf="@+id/cv6"
+            app:layout_heightPercent="50%"
+            app:layout_widthPercent="12.5%"
+            android:layout_gravity="center"
+            android:layout_margin="2dp"
+            app:cardBackgroundColor="@color/md_red_700"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true">
+
+            <com.zhy.android.percent.support.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/iv7"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:padding="8dp"
+                    android:scaleType="fitCenter"
+                    app:layout_heightPercent="60%"
+                    app:layout_marginTopPercent="15%h"
+                    app:layout_widthPercent="80%"
+                    app:srcCompat="@drawable/setting" />
+
+                <TextView
+                    android:id="@+id/tv7"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/iv7"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Setting"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.zhy.android.percent.support.PercentRelativeLayout>
+        </android.support.v7.widget.CardView>
+    
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv8"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_below="@+id/cv1"
+            android:layout_toRightOf="@+id/cv7"
+            app:layout_heightPercent="50%"
+            app:layout_widthPercent="12.5%"
+            android:layout_gravity="center"
+            android:layout_margin="2dp"
+            app:cardBackgroundColor="@color/md_pink_600"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true">
+
+            <com.zhy.android.percent.support.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/iv8"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:padding="8dp"
+                    android:scaleType="fitCenter"
+                    app:layout_heightPercent="60%"
+                    app:layout_marginTopPercent="15%h"
+                    app:layout_widthPercent="80%"
+                    app:srcCompat="@drawable/help" />
+
+                <TextView
+                    android:id="@+id/tv8"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/iv8"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Help"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.zhy.android.percent.support.PercentRelativeLayout>
+        </android.support.v7.widget.CardView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="8dp"
+        android:layout_toRightOf="@+id/cv8">
+
+        <com.daimajia.slider.library.SliderLayout
+            android:id="@+id/slider"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+</com.zhy.android.percent.support.PercentRelativeLayout>

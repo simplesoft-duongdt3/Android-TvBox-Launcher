@@ -13,8 +13,6 @@ import com.daimajia.slider.library.SliderLayout;
 import com.daimajia.slider.library.SliderTypes.BaseSliderView;
 import com.daimajia.slider.library.SliderTypes.TextSliderView;
 
-import java.util.HashMap;
-
 import duongmh3.launcher.common.list.RecyclerItems;
 import duongmh3.launcher.common.task.TaskManager;
 import duongmh3.launcher.func.listapp.AppInfoViewModel;
@@ -64,20 +62,22 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        HashMap<String,String> urlMaps = new HashMap<>();
-        urlMaps.put("Hannibal", "http://static2.hypable.com/wp-content/uploads/2013/12/hannibal-season-2-release-date.jpg");
-        urlMaps.put("Big Bang Theory", "http://tvfiles.alphacoders.com/100/hdclearart-10.png");
-        urlMaps.put("House of Cards", "http://cdn3.nflximg.net/images/3093/2043093.jpg");
-        urlMaps.put("Game of Thrones", "http://images.boomsbeat.com/data/images/full/19640/game-of-thrones-season-4-jpg.jpg");
-
-        for(String name : urlMaps.keySet()){
+        {
             TextSliderView textSliderView = new TextSliderView(this);
             // initialize a SliderLayout
             textSliderView
-                    .description(name)
-                    .image(urlMaps.get(name))
+                    .description("Alibay.vn uy tín chất lượng")
+                    .image(R.drawable.slider_1)
                     .setScaleType(BaseSliderView.ScaleType.Fit);
-
+            sliderLayout.addSlider(textSliderView);
+        }
+        {
+            TextSliderView textSliderView = new TextSliderView(this);
+            // initialize a SliderLayout
+            textSliderView
+                    .description("Alibay.vn vận chuyển toàn quốc")
+                    .image(R.drawable.slider_2)
+                    .setScaleType(BaseSliderView.ScaleType.Fit);
             sliderLayout.addSlider(textSliderView);
         }
         sliderLayout.setPresetTransformer(SliderLayout.Transformer.Accordion);
