@@ -1,6 +1,16 @@
 
-csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
-Psquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ç©—ˆ8çÎ¯ÑÔ+
 Psquid:EmptyStatementUsageCheck"Remove this empty statement.(“ãá¼øÿÿÿÿ8íÐÔ+
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ä°’Ë
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊÂØÊúÿÿÿÿ8“¤ß¼î+
+Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¸Ûè®è+
+Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ÿœé®è+
+Vsquid:UnusedPrivateMethod",Remove this unused private "onFocus" method.(Õú™8ßÔÝ¼î+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯àÄ–úÿÿÿÿ8ßÔÝ¼î+
 Psquid:S1066"/Merge this if statement with the enclosing one.(æÞªŒÿÿÿÿÿ8ºöýÐÔ+
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
+_squid:UnusedPrivateMethod"0Remove this unused private "onLostFocus" method.(¬Âç¥üÿÿÿÿ8ßÔÝ¼î+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀÁ«´ûÿÿÿÿ8åÞß¼î+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îïºˆ8¦ÂÞ¼î+
+Lsquid:S1172"+Remove this unused method parameter "view".(¬Âç¥üÿÿÿÿ8åÞß¼î+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(çŽ¡Ùùÿÿÿÿ8ªúß¼î+
+Gsquid:S1172"+Remove this unused method parameter "view".(Õú™8ªúß¼î+

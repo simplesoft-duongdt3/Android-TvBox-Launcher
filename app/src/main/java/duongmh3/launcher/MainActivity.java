@@ -24,7 +24,7 @@ import me.drakeet.multitype.MultiTypeAdapter;
 public class MainActivity extends AppCompatActivity {
     @NonNull
     private final TaskManager taskManager = new TaskManager();
-    private TVGridView rvApp;
+    //private TVGridView rvApp;
     private RecyclerItems<AppInfoViewModel> items = new RecyclerItems<>();
     @NonNull
     private final LoadAppUseCase loadAppUseCase = new LoadAppUseCase(taskManager);
@@ -41,14 +41,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
-        rvApp = (TVGridView) findViewById(R.id.rvApp);
-        rvApp.setStrokeColorClicked(Color.RED);
-        rvApp.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
-        rvApp.setHasFixedSize(true);
-        multiTypeAdapter.register(AppInfoViewModel.class, new AppViewModelBinder(this::onFocus, this::onLostFocus));
-        rvApp.setAdapter(multiTypeAdapter);
-        multiTypeAdapter.setItems(items);
-        multiTypeAdapter.notifyDataSetChanged();
+        //rvApp = (TVGridView) findViewById(R.id.rvApp);
+        //rvApp.setStrokeColorClicked(Color.RED);
+        //rvApp.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
+        //rvApp.setHasFixedSize(true);
+        //multiTypeAdapter.register(AppInfoViewModel.class, new AppViewModelBinder(this::onFocus, this::onLostFocus));
+        //rvApp.setAdapter(multiTypeAdapter);
+        //multiTypeAdapter.setItems(items);
+        //multiTypeAdapter.notifyDataSetChanged();
 
         sliderLayout = (SliderLayout) findViewById(R.id.slider);
     }
@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
             if (data.isSuccess()) {
                 items.clear();
                 items.addAll(data.getData());
-                multiTypeAdapter.notifyDataSetChanged();
+                //multiTypeAdapter.notifyDataSetChanged();
             }
         });
 
@@ -102,10 +102,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void onLostFocus(View view) {
-        rvApp.selectView(view, false);
+        //rvApp.selectView(view, false);
     }
 
     private void onFocus(View view) {
-        rvApp.selectView(view, true);
+        //rvApp.selectView(view, true);
     }
 }
