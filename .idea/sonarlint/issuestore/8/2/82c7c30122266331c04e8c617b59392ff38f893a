@@ -1,9 +1,0 @@
-
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ¼Ğ¯ıÿÿÿÿ
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ¼Ğ¯ıÿÿÿÿ
-psquid:S1192"[Define a constant instead of duplicating this literal "Call multi image function," 3 times.(£«¨‘
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(£ÄïÊ8å• ³Ô+
-ƒsquid:S1192"iDefine a constant instead of duplicating this literal "you only have permission to call it once" 3 times.(û…Ù·ùÿÿÿÿ
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ¼Ğ¯ıÿÿÿÿ
-Œ"squid:SwitchLastCaseIsDefaultCheck"YComplete cases by adding the missing enum constants or add a default case to this switch.(òÌÂ8ºŞ˜³Ô+
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ¼Ğ¯ıÿÿÿÿ

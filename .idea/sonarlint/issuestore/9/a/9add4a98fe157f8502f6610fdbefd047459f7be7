@@ -1,8 +1,0 @@
-
-"squid:ClassVariableVisibilityCheck"WMake displayName a static final constant or non-public and provide accessors if needed.(†ë›‚ıÿÿÿÿ8¨ß¾ÏÔ+
-ƒ"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.(Ñê¨Ú8¨ß¾ÏÔ+
-"squid:ClassVariableVisibilityCheck"XMake activityName a static final constant or non-public and provide accessors if needed.(‘±óÿÿÿÿÿ8¡æÁÏÔ+
-"squid:ClassVariableVisibilityCheck"WMake packageName a static final constant or non-public and provide accessors if needed.(ƒ³½úÿÿÿÿ8¡æÁÏÔ+
-†"squid:ClassVariableVisibilityCheck"NMake id a static final constant or non-public and provide accessors if needed.(ÂÈŠ»ıÿÿÿÿ8¨ß¾ÏÔ+
-’"squid:ClassVariableVisibilityCheck"ZMake nameNormalized a static final constant or non-public and provide accessors if needed.(ıœÅÄøÿÿÿÿ8¨ß¾ÏÔ+
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¶Šä†ıÿÿÿÿ

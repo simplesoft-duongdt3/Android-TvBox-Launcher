@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="library-1.1.5">
     <CLASSES>
-      <root url="file://$USER_HOME$/.android/build-cache/a074f42609e388ba4a078d9591418f7840e2ab3e/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/a074f42609e388ba4a078d9591418f7840e2ab3e/output/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

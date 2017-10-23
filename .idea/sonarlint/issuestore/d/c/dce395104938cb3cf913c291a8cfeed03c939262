@@ -1,16 +1,0 @@
-
-Psquid:EmptyStatementUsageCheck"Remove this empty statement.(“ãá¼øÿÿÿÿ8íĞÔ+
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ä°’Ë
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊÂØÊúÿÿÿÿ8“¤ß¼î+
-Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¸Ûè®è+
-Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ÿœé®è+
-Vsquid:UnusedPrivateMethod",Remove this unused private "onFocus" method.(Õú™8ßÔİ¼î+
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯àÄ–úÿÿÿÿ8ßÔİ¼î+
-Psquid:S1066"/Merge this if statement with the enclosing one.(æŞªŒÿÿÿÿÿ8ºöıĞÔ+
-csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±
-_squid:UnusedPrivateMethod"0Remove this unused private "onLostFocus" method.(¬Âç¥üÿÿÿÿ8ßÔİ¼î+
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀÁ«´ûÿÿÿÿ8åŞß¼î+
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îïºˆ8¦ÂŞ¼î+
-Lsquid:S1172"+Remove this unused method parameter "view".(¬Âç¥üÿÿÿÿ8åŞß¼î+
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç¡Ùùÿÿÿÿ8ªúß¼î+
-Gsquid:S1172"+Remove this unused method parameter "view".(Õú™8ªúß¼î+
