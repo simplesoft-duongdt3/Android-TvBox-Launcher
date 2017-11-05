@@ -3,7 +3,6 @@ package duongmh3.launcher;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.AppCompatImageView;
 import android.support.v7.widget.CardView;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -75,8 +74,7 @@ public class MainActivity extends AppCompatActivity {
 
     //private TVGridView rvApp;
     private RecyclerItems<AppInfoViewModel> items = new RecyclerItems<>();
-    @NonNull
-    private final LoadAppUseCase loadAppUseCase = new LoadAppUseCase(taskManager);
+
     @NonNull
     private final MultiTypeAdapter multiTypeAdapter = new MultiTypeAdapter();
     ;
@@ -105,13 +103,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        loadAppUseCase.executeAsync(data -> {
-            if (data.isSuccess()) {
-                items.clear();
-                items.addAll(data.getData());
-                //multiTypeAdapter.notifyDataSetChanged();
-            }
-        });
 
         {
             TextSliderView textSliderView = new TextSliderView(this);

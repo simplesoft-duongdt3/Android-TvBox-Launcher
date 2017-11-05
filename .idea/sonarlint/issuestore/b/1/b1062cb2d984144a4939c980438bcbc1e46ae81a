@@ -1,0 +1,5 @@
+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¶Šä†ıÿÿÿÿ
+Osquid:S1172".Remove this unused method parameter "context".(ì­èşÿÿÿÿ8Äõ™×ø+
+Wsquid:S1172"6Remove this unused method parameter "recentListModel".(®¾Ğáıÿÿÿÿ8èî­×ø+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®¾Ğáıÿÿÿÿ8èî­×ø+

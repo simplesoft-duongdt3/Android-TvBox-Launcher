@@ -69,3 +69,11 @@ Iimageslider/src/main/java/com/tinyapps/imageslider/DefaultSliderView.java,7/1/
 Limageslider/src/main/java/com/tinyapps/imageslider/DescriptionAnimation.java,8/1/811873fcf42a34eb83ef6c6290eec8dd287ef457
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
+f
+6app/src/main/java/duongmh3/launcher/EmptyActivity.java,d/9/d9579827edc69ea5c92b254f6c4ecc407143573c
+u
+Eapp/src/main/java/duongmh3/launcher/common/usecase/UseCaseSimple.java,4/9/496b0f8048eaddf911668498703c13624a3e9c64
+u
+Eapp/src/main/java/duongmh3/launcher/func/listapp/RecentListModel.java,9/4/94c1e19de73ab54a28a57d74ede8b3322ddd27a9
+w
+Gapp/src/main/java/duongmh3/launcher/func/listapp/ListAppRecentView.java,b/1/b1062cb2d984144a4939c980438bcbc1e46ae81a

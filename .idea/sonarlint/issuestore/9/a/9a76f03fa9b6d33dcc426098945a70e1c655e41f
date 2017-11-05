@@ -1,2 +1,4 @@
 
 rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¶Šä†ıÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÈÅ¢Æ8Â¿°Öø+
+Zsquid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¨ÒÖø+

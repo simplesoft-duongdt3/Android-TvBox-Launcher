@@ -13,9 +13,6 @@ import lombok.Setter;
 public class AppInfoViewModel implements RecyclerViewModel {
     public String id = "(none)";
 
-    // Name for this pojo, e.g. app name
-    public String name = "";
-
     // Lower-cased name, for faster search
     public String nameNormalized = "";
     // Name displayed on the screen, may contain HTML (for instance, to put
