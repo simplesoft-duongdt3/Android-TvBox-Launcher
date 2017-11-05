@@ -1,43 +1,0 @@
-
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ÇŞß
-fsquid:S2259"LA "NullPointerException" could be thrown; "getRealAdapter" is nullable here.(©Ûş°ıÿÿÿÿ
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆğ‹Ş
-jsquid:S1201"UEither override Object.equals(Object), or rename the method to prevent any confusion.(„äîæ
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šùûñ
-fsquid:S2259"LA "NullPointerException" could be thrown; "getRealAdapter" is nullable here.(£êİ·üÿÿÿÿ
-esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ
-Isquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷é‚
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§ô×Ğøÿÿÿÿ
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´óàî
-Osquid:S1161":Add the "@Override" annotation above this method signature(Á»›ê
-?squid:S00108")Either remove or fill this block of code.(”ı¾
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†÷àÇ
-S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ë´åİşÿÿÿÿ
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ·º¨üÿÿÿÿ
-osquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—»S
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôüåí
-osquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ùïæ
-`squid:S2259"LA "NullPointerException" could be thrown; "getRealAdapter" is nullable here.(ü–s
-fsquid:S2259"LA "NullPointerException" could be thrown; "getRealAdapter" is nullable here.(¼Öº©úÿÿÿÿ
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£Ï†øÿÿÿÿ
-esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿåãùÿÿÿÿ
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØŒæúşÿÿÿÿ
-Osquid:S1161":Add the "@Override" annotation above this method signature(Á»›ê
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ËµÌéûÿÿÿÿ
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œñŸ‹
-usquid:S1192"aDefine a constant instead of duplicating this literal "You did not set a slider adapter" 5 times.(ı“öU
-asquid:S2259"LA "NullPointerException" could be thrown; "getRealAdapter" is nullable here.(Ã«Õ¤
-bsquid:S2259"HA "NullPointerException" could be thrown; "mIndicator" is nullable here.(—Ğğëúÿÿÿÿ
-^squid:UnusedPrivateMethod"6Remove this unused private "getWrapperAdapter" method.(Âß›úÿÿÿÿ
-fsquid:S2259"LA "NullPointerException" could be thrown; "getRealAdapter" is nullable here.(ê•Ô¯şÿÿÿÿ
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥Õí´ùÿÿÿÿ
-S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ë´åİşÿÿÿÿ
-asquid:S2259"LA "NullPointerException" could be thrown; "getRealAdapter" is nullable here.(êî»¦
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úæê«şÿÿÿÿ
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³¾î›
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š²•­øÿÿÿÿ
-fsquid:S2259"LA "NullPointerException" could be thrown; "getRealAdapter" is nullable here.(¼Öº©úÿÿÿÿ
-osquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µò ~
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œßÎ™

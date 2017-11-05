@@ -3,21 +3,408 @@
 
     <item
         is-multidex="false"
-        jar="/Users/admin/.android/build-cache/a074f42609e388ba4a078d9591418f7840e2ab3e/output/jars/classes.jar"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.3/980992bd422b477b140240304416a755dd56a844/objenesis-2.3.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
-        <dex dex="/Users/admin/Work/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/classes_440e0b515b22d011dab5082d4683d1d37c4626e5.jar" />
+        sha1="980992bd422b477b140240304416a755dd56a844">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/objenesis-2.3_239fd911cd6f67d2284040a74f532f8d9c6397ac.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/me.drakeet.multitype/multitype/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e946659e5d222465dac7d3cd312c0dd99d14b258">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/me.drakeet.multitype-multitype-3.1.0_11fabbaefb5b9fd5aec7dde4e221a49d7e16ffd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/android-studio/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/asm-5.0.4_f40c3106ebcacbddd0da4f8d2929f475239086f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_06aedf33a98ca03779fe8a6c6a165415a5001bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.zhy/percent-support-extends/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="29ff8e178d6ef33c8673f430651500068642f833">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.zhy-percent-support-extends-1.1.1_d18d2c33b9a111a6521e8413c1329e2deee7fb54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/info.awesomedevelopment/tvgrid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="13d6259efdcf2f527133df4b14464bf85a3e4ea3">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/info.awesomedevelopment-tvgrid-1.1.0_d231a887943ee8886712ff8d8ebc64ef3bbd2308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_009c4a51f17212525ce561f8b6f4668bcaa1bd3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/io.paperdb/paperdb/2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25cd6ea8b3f45e38bfbd4a8c14059f95cf441efc">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/io.paperdb-paperdb-2.1_a4c9e7458529981c34f7c6d8a0dfacc80c57f43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_fbab4f494098afffee6a25e766041f723b70568e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_46cf68cce0052ab5d5eb4bfba66f0004d74d898f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_43b1ab2ed0bde72defd6b9cc686073178a743140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC1/c425e31eda1069f978a0e823ad50e567ab422656/gifdecoder-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c425e31eda1069f978a0e823ad50e567ab422656">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0-RC1_6e9b2161933ced034cdb23e3dfdb4e3938f98947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.github.recruit-lifestyle/FloatingView/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3a0d6bc4490effb40a4d4ec47ebbd8112ee489fb">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.github.recruit-lifestyle-FloatingView-2.2.1_67ff18454c68e32467d3ca7d33f27a1d577fed63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/de.javakaffee/kryo-serializers/0.40/562cb61898302da4e8d3fd141c821edb1bc6b36d/kryo-serializers-0.40.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="562cb61898302da4e8d3fd141c821edb1bc6b36d">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/kryo-serializers-0.40_6400ec2c8fdbc64291fdd6f0a2de268590cc7c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_93c328c331180b82a7f1be1a4c65255e834c6db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/reflectasm/1.11.3/8b102eed2f12412b254946811111ea48bc03a266/reflectasm-1.11.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8b102eed2f12412b254946811111ea48bc03a266">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/reflectasm-1.11.3_b14345f883e59bae4704432d656698938451bedf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC1/84c524dcd1a3088edd5560a8ac176eae1317f770/annotations-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="84c524dcd1a3088edd5560a8ac176eae1317f770">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/annotations-4.0.0-RC1_5ba3cb0410df2a44e3544d49e766ffa58eed77bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_0f2b52b6b671c9d6f9704cee63e1d308562fdec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e9bfc13f6fc86b99fcb3541d3ab20065c58bcf3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC1/7baec7d5132e7343100a99630a56a6584a33addc/glide-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7baec7d5132e7343100a99630a56a6584a33addc">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/glide-4.0.0-RC1_53cb95999c05dc50b2c3316bf3acae46b8c44ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_70488b48aa1c67ec28c27cfe7a27ab30ebdf0b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_565950edc55d7eb7e20f371fcec8d2d3eba3ee7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
-        <dex dex="/Users/admin/Work/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_03ab0c99d4687f7c6c7119b9785d4487d446052a.jar" />
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_f85d82cd1217a2b7b1d7ccc50b87ed5ab6ebf79f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/minlog/1.3.0/ff07b5f1b01d2f92bb00a337f9a94873712f0827/minlog-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ff07b5f1b01d2f92bb00a337f9a94873712f0827">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/minlog-1.3.0_111d75be657bd6a42e3659a3f123ad83f29c0649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.jakewharton.hugo/hugo-annotations/1.2.1/b01150795c5cdca1eb7e501bf00f105ff0e31501/hugo-annotations-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/hugo-annotations-1.2.1_7e179622894cc76ecb5dc890e051f0c75150ec5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_da18fe9e066db458f2a210bead2bfce3c2f69ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC1/1b4bba8f8d3df8db064c875c043c01e9ca3cdee9/disklrucache-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b4bba8f8d3df8db064c875c043c01e9ca3cdee9">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0-RC1_7edfc3101964e3538fc02f098596f4f71773cc99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_65cfc4d99d76724c4c924dcd1551606712d01b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_079c256932b07943a4697076d8bd86738bbd4454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.5/39a8ff2d1f79267907f5573c090b342b040b9682/aspectjrt-1.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="39a8ff2d1f79267907f5573c090b342b040b9682">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/aspectjrt-1.8.5_fc45a47c81e275b3840a4bfb71fafa41b828b96f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_55dad0e2fc42877cd9cd05afa0d7fe47945cda28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/gson-2.8.1_ca48d1015aaf9adab670315b81b0ce529a566de2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-26.0.0-alpha1_08360bcbcfc8cafbbec918fbbfeb77a2e3daaf55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.github.GrenderG/Toasty/1.2.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5734c03faa42bb254d3f05d656f7a7036cb096b6">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.github.GrenderG-Toasty-1.2.5_cc40d129fa165237c1ccd5f90f82ce1a1d8a02d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.daimajia.slider-library-1.1.5_2ce14e477300fd2fc6d6abb3b09fe021ff3d0d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_dd86028abfc900722d658730521f8cc0e4bfb6cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.binaryfork/spanny/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54c62dc872db3e68fa72f3a91a420a06350154ff">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.binaryfork-spanny-1.0.4_a0ae505c5e0ca77ce161d92771f95569b41d0719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.jakewharton.hugo/hugo-runtime/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.jakewharton.hugo-hugo-runtime-1.2.1_1b5cd0b0e18fdb73489316e0c59d94996e7ad49e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_1173fd99ebb888ba2d61f781dd83e5600473f7fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/kryo/4.0.0/9f5c64c1315ec79bee0f56bb88e4ae94b65048ce/kryo-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9f5c64c1315ec79bee0f56bb88e4ae94b65048ce">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/kryo-4.0.0_149d7092f37c1070289f7dd161c99c3d529ba433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/library-2.4.0_e2920e9269213dabb87e974c331b0a486205f6c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_a20e3fd18ded1d36237b7e645213afc9ce65ead0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.16/245b50f714bf89ed7659266ace12f9e509d13551/lombok-1.16.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="245b50f714bf89ed7659266ace12f9e509d13551">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/lombok-1.16.16_fd5f7cf45bcd787a89e59b42adc5cfa753e77f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_31c6c3e91ef48173f3099bf40e2674306fc430a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duongmatheo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/home/duongmatheo/Work/Git/launcher/Android-TvBox-Launcher/app/build/intermediates/pre-dexed/debug/okhttp-3.8.1_6744ef07207056eaf4559e2ca26f06f88f1d5c3d.jar" />
     </item>
 
 </items>

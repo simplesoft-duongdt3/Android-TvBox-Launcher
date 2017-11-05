@@ -1,6 +1,0 @@
-
-fsquid:S1871"LThis branch's code block is the same as the block for the branch on line 22.(άΎ­Ϋώÿÿÿÿ
-_squid:HiddenFieldCheck":Rename "serial" which hides the field declared at line 13.(νέεªÿÿÿÿÿ
-Dsquid:S00108")Either remove or fill this block of code.(ΏεΣϊÿÿÿÿ
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¶δ†ύÿÿÿÿ
-Vsquid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Κ‰θ

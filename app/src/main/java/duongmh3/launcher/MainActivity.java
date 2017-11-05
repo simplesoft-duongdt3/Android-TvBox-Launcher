@@ -17,6 +17,8 @@ import com.zhy.android.percent.support.PercentRelativeLayout;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import butterknife.OnClick;
+import duongmh3.launcher.common.Util;
 import duongmh3.launcher.common.list.RecyclerItems;
 import duongmh3.launcher.common.task.TaskManager;
 import duongmh3.launcher.func.listapp.AppInfoViewModel;
@@ -77,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
     @NonNull
     private final MultiTypeAdapter multiTypeAdapter = new MultiTypeAdapter();
-    ;
+
     private SliderLayout sliderLayout;
 
     @Override
@@ -149,5 +151,34 @@ public class MainActivity extends AppCompatActivity {
 
     private void onFocus(View view) {
         //rvApp.selectView(view, true);
+    }
+
+    @OnClick({R.id.cv1, R.id.cv2, R.id.cv3, R.id.cv4, R.id.cv5, R.id.cv6, R.id.cv7, R.id.cv8})
+    public void onViewClicked(View view) {
+        switch (view.getId()) {
+            case R.id.cv1:
+                Util.openApp(this, "com.google.android.youtube");
+                break;
+            case R.id.cv2:
+                Util.openApp(this, "vng.zing.mp3");
+                break;
+            case R.id.cv3:
+                Util.openApp(this, "com.google.android.apps.photos");
+                break;
+            case R.id.cv4:
+                Util.openApp(this, "com.android.vending");
+                break;
+            case R.id.cv5:
+                Util.openApp(this, "com.android.chrome");
+                break;
+            case R.id.cv6:
+                Util.openApp(this, "com.google.android.apps.maps");
+                break;
+            case R.id.cv7:
+                Util.openSetting(this);
+                break;
+            case R.id.cv8:
+                break;
+        }
     }
 }
