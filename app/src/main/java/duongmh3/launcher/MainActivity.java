@@ -7,6 +7,7 @@ import android.support.v7.widget.CardView;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
@@ -22,6 +23,7 @@ import duongmh3.launcher.common.Util;
 import duongmh3.launcher.common.list.RecyclerItems;
 import duongmh3.launcher.common.task.TaskManager;
 import duongmh3.launcher.func.listapp.AppInfoViewModel;
+import duongmh3.launcher.func.listapp.ListAppRecentView;
 import duongmh3.launcher.func.listapp.LoadAppUseCase;
 import me.drakeet.multitype.MultiTypeAdapter;
 
@@ -72,6 +74,8 @@ public class MainActivity extends AppCompatActivity {
     CardView cvApp9;
     @BindView(R.id.cvApp10)
     CardView cvApp10;
+    @BindView(R.id.vgRecentApp)
+    ViewGroup vgRecentApp;
 
 
     //private TVGridView rvApp;
@@ -102,6 +106,8 @@ public class MainActivity extends AppCompatActivity {
         //multiTypeAdapter.notifyDataSetChanged();
 
         sliderLayout = (SliderLayout) findViewById(R.id.slider);
+        ListAppRecentView listAppRecentView = new ListAppRecentView(this, vgRecentApp);
+        listAppRecentView.loadData();
     }
 
     private void initData() {

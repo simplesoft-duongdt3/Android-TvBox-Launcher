@@ -85,7 +85,9 @@ public class ListAppRecentView {
 
     public ListAppRecentView(Context context, ViewGroup viewGroup) {
         ButterKnife.bind(this, viewGroup);
+    }
 
+    public void loadData() {
         loadAppUseCase.executeAsync(data -> {
             if (data.isSuccess()) {
                 List<AppInfoViewModel> list = data.getData();
@@ -96,8 +98,26 @@ public class ListAppRecentView {
     }
 
     private void renderListRecent(RecentListModel recentListModel) {
-
+        renderApp(ivApp1, tvApp1, cvApp1, recentListModel.getAppInfoViewModel1());
+        renderApp(ivApp2, tvApp2, cvApp2, recentListModel.getAppInfoViewModel2());
+        renderApp(ivApp3, tvApp3, cvApp3, recentListModel.getAppInfoViewModel3());
+        renderApp(ivApp4, tvApp4, cvApp4, recentListModel.getAppInfoViewModel4());
+        renderApp(ivApp5, tvApp5, cvApp5, recentListModel.getAppInfoViewModel5());
+        renderApp(ivApp6, tvApp6, cvApp6, recentListModel.getAppInfoViewModel6());
+        renderApp(ivApp7, tvApp7, cvApp7, recentListModel.getAppInfoViewModel7());
+        renderApp(ivApp8, tvApp8, cvApp8, recentListModel.getAppInfoViewModel8());
+        renderApp(ivApp9, tvApp9, cvApp9, recentListModel.getAppInfoViewModel9());
+        renderApp(ivApp10, tvApp10, cvApp10, recentListModel.getAppInfoViewModel10());
     }
 
+    private void renderApp(AppCompatImageView ivApp, TextView tvApp, CardView cvApp, AppInfoViewModel appInfoViewModel) {
+        if (appInfoViewModel != null) {
+            ivApp.setImageBitmap(null);
+            tvApp.setText(appInfoViewModel.getDisplayName());
+        } else {
+            ivApp.setImageBitmap(null);
+            tvApp.setText("");
+        }
+    }
 
 }

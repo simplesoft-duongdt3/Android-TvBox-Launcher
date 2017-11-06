@@ -46,7 +46,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -95,7 +95,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -144,7 +144,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -193,7 +193,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -242,7 +242,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -291,7 +291,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -340,7 +340,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -389,7 +389,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -438,7 +438,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>
@@ -487,7 +487,7 @@
                 android:padding="2dp"
                 android:text="Help"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
         </com.zhy.android.percent.support.PercentRelativeLayout>
     </android.support.v7.widget.CardView>

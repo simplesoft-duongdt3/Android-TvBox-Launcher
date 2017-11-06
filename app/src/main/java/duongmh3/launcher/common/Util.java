@@ -4,10 +4,14 @@ import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.widget.TextView;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
+import java.util.List;
 import java.util.Locale;
+
+import duongmh3.launcher.func.listapp.AppInfoViewModel;
 
 /**
  * Created by duongmatheo on 7/12/17.
@@ -47,5 +51,13 @@ public class Util {
         DecimalFormatSymbols symbols = new DecimalFormatSymbols(Locale.ENGLISH);
         DecimalFormat numberFormat = new DecimalFormat(format, symbols);
         return numberFormat.format(value);
+    }
+
+    public static <T> T getObFromList(int index, List<T> list) {
+        T ob = null;
+        if (list != null && index >= 0 && list.size() > index) {
+            ob = list.get(index);
+        }
+        return ob;
     }
 }

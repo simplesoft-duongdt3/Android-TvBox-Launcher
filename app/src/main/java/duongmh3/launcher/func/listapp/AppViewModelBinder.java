@@ -58,7 +58,7 @@ public class AppViewModelBinder extends ViewHolderBinder<AppInfoViewModel, AppVi
                 holder.ivApp.setImageDrawable(data.getData());
             }
         });
-        setText(holder.tvAppName, item.getName());
+        setText(holder.tvAppName, item.getDisplayName());
     }
 
     @Override

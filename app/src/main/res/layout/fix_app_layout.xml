@@ -362,7 +362,7 @@
                 app:layout_heightPercent="60%"
                 app:layout_marginTopPercent="15%h"
                 app:layout_widthPercent="80%"
-                app:srcCompat="@drawable/help" />
+                app:srcCompat="@drawable/apps" />
 
             <TextView
                 android:id="@+id/tv8"
@@ -372,7 +372,7 @@
                 android:layout_centerHorizontal="true"
                 android:gravity="center"
                 android:padding="2dp"
-                android:text="Help"
+                android:text="Apps"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
                 android:textStyle="bold" />
